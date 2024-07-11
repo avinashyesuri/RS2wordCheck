@@ -15,5 +15,4 @@ The application also demonstrates the use of React Router's `useParams` hook.
 ## Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/word-checker.git
+   ```https://github.com/avinashyesuri/RS2wordCheck.git
