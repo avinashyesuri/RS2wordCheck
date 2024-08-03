@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application is a word checker that allows users to type text, track the number of words typed within a certain period,and provides functionality to convert the text to uppercase or lowercase. Additionally, users can edit and copy the text.
+This application is a word checker that allows users to type text, track the number of words typed within a certain period,and provides functionality to convert the text to uppercase or lowercase. Additionally, users can edit and copy the text through the clipboard and work on that
 The application also demonstrates the use of React Router's `useParams` hook...
 
 ## Features
