@@ -19,9 +19,9 @@ The application also demonstrates the use of React Router's `useParams` hook...
 
 
 
-WORD CHECKER 
+# WORD CHECKER 
 ![image](https://github.com/user-attachments/assets/04198c42-f400-47eb-9cc0-2ad736af91d7)
-COUNT!!!!
+# COUNT!!!!
 ![image](https://github.com/user-attachments/assets/5bef830d-1b8d-49ef-bb9b-1d6df69a3aa7)
 USAGE OF BUTTONS
 ![image](https://github.com/user-attachments/assets/085293bb-358b-42f1-88c7-d604a32bdbe0)
