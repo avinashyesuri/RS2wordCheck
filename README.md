@@ -23,9 +23,9 @@ The application also demonstrates the use of React Router's `useParams` hook...
 ![image](https://github.com/user-attachments/assets/04198c42-f400-47eb-9cc0-2ad736af91d7)
 # COUNT!!!!
 ![image](https://github.com/user-attachments/assets/5bef830d-1b8d-49ef-bb9b-1d6df69a3aa7)
-USAGE OF BUTTONS
+# USAGE OF BUTTONS
 ![image](https://github.com/user-attachments/assets/085293bb-358b-42f1-88c7-d604a32bdbe0)
-USER DETAILS
+# USER DETAILS
 ![image](https://github.com/user-attachments/assets/00c1f7e8-3d52-4e6a-8963-b29d0b13505d)
-USING USEPARMAS CONCEPT E GET TO KNOW THE DEATILS OF USER COMPLETELY
+# USING USEPARMAS CONCEPT E GET TO KNOW THE DEATILS OF USER COMPLETELY
 ![image](https://github.com/user-attachments/assets/f8ac62b5-3592-47ee-bd97-7ad339215b8d)
