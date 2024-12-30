@@ -12,7 +12,6 @@ The application also demonstrates the use of React Router's `useParams` hook...
 - **Edit and Copy**: Provides options to edit and copy the text.
 - **React Router**: Utilizes `useParams` for dynamic routing.
 
-
 ## Installation
 
 1. Clone the repository:
