@@ -7,6 +7,7 @@ The application also demonstrates the use of React Router's `useParams` hook...
 
 ## Features
 
+
 - **Word Count**: Counts the number of words typed.
 - **Case Conversion**: Convert text to uppercase or lowercase.
 - **Edit and Copy**: Provides options to edit and copy the text.
